@@ -58,7 +58,7 @@ BASE_HTML = """<!DOCTYPE html>
 </body>
 </html>"""
 
-BASE_API_URL = "https://beigeparrotfish.onpella.app"  # Your pella.app URL
+BASE_API_URL = "https://fastapi-render-j3v8.onrender.com"  # Your pella.app URL
 PING_URL = "https://fastapi-render-8jly.onrender.com/checkpoint_start?token=ping-dummy-token"
 
 # CPM rates from ShrinkMe.io
